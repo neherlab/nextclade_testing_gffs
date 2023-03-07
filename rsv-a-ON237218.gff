@@ -1,0 +1,29 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region ON237218.1 1 15220
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=208893
+ON237218.1	Genbank	region	1	15220	.	+	.	ID=ON237218.1:1..15220;Dbxref=taxon:208893;collection-date=31-Mar-2014;country=Argentina: Ciudad Autonoma de Buenos Aires;gbkey=Src;genome=genomic;isolate=HRSV/A/Argentina/BA-HNRG-002/2014;isolation-source=nasopharyngeal aspirate;mol_type=viral cRNA;nat-host=Homo sapiens%3B 9 months%3B male;subtype=A
+ON237218.1	Genbank	gene	61	480	.	+	.	ID=gene-NS1;Name=NS1;gbkey=Gene;gene=NS1;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	61	480	.	+	0	ID=cds-WCO06464.1;Parent=gene-NS1;Dbxref=NCBI_GP:WCO06464.1;Name=WCO06464.1;gbkey=CDS;gene=NS1;product=nonstructural protein 1;protein_id=WCO06464.1
+ON237218.1	Genbank	gene	590	964	.	+	.	ID=gene-NS2;Name=NS2;gbkey=Gene;gene=NS2;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	590	964	.	+	0	ID=cds-WCO06465.1;Parent=gene-NS2;Dbxref=NCBI_GP:WCO06465.1;Name=WCO06465.1;gbkey=CDS;gene=NS2;product=nonstructural protein 2;protein_id=WCO06465.1
+ON237218.1	Genbank	gene	1102	2277	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	1102	2277	.	+	0	ID=cds-WCO06466.1;Parent=gene-N;Dbxref=NCBI_GP:WCO06466.1;Name=WCO06466.1;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=WCO06466.1
+ON237218.1	Genbank	gene	2309	3034	.	+	.	ID=gene-P;Name=P;gbkey=Gene;gene=P;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	2309	3034	.	+	0	ID=cds-WCO06467.1;Parent=gene-P;Dbxref=NCBI_GP:WCO06467.1;Name=WCO06467.1;gbkey=CDS;gene=P;product=phosphoprotein;protein_id=WCO06467.1
+ON237218.1	Genbank	gene	3218	3988	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	3218	3988	.	+	0	ID=cds-WCO06468.1;Parent=gene-M;Dbxref=NCBI_GP:WCO06468.1;Name=WCO06468.1;gbkey=CDS;gene=M;product=matrix protein;protein_id=WCO06468.1
+ON237218.1	Genbank	gene	4258	4452	.	+	.	ID=gene-SH;Name=SH;gbkey=Gene;gene=SH;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	4258	4452	.	+	0	ID=cds-WCO06469.1;Parent=gene-SH;Dbxref=NCBI_GP:WCO06469.1;Name=WCO06469.1;gbkey=CDS;gene=SH;product=small hydrophobic protein;protein_id=WCO06469.1
+ON237218.1	Genbank	gene	4647	5612	.	+	.	ID=gene-G;Name=G;gbkey=Gene;gene=G;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	4647	5612	.	+	0	ID=cds-WCO06470.1;Parent=gene-G;Dbxref=NCBI_GP:WCO06470.1;Name=WCO06470.1;gbkey=CDS;gene=G;product=attachment glycoprotein;protein_id=WCO06470.1
+ON237218.1	Genbank	gene	5692	7416	.	+	.	ID=gene-F;Name=F;gbkey=Gene;gene=F;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	5692	7416	.	+	0	ID=cds-WCO06471.1;Parent=gene-F;Dbxref=NCBI_GP:WCO06471.1;Name=WCO06471.1;gbkey=CDS;gene=F;product=fusion glycoprotein;protein_id=WCO06471.1
+ON237218.1	Genbank	gene	7635	8219	.	+	.	ID=gene-M2-1;Name=M2-1;gbkey=Gene;gene=M2-1;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	7635	8219	.	+	0	ID=cds-WCO06472.1;Parent=gene-M2-1;Dbxref=NCBI_GP:WCO06472.1;Name=WCO06472.1;gbkey=CDS;gene=M2-1;product=M2-1 protein;protein_id=WCO06472.1
+ON237218.1	Genbank	gene	8194	8460	.	+	.	ID=gene-M2-2;Name=M2-2;gbkey=Gene;gene=M2-2;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	8194	8460	.	+	0	ID=cds-WCO06473.1;Parent=gene-M2-2;Dbxref=NCBI_GP:WCO06473.1;Name=WCO06473.1;gbkey=CDS;gene=M2-2;product=M2-2 protein;protein_id=WCO06473.1
+ON237218.1	Genbank	gene	8527	15024	.	+	.	ID=gene-L;Name=L;gbkey=Gene;gene=L;gene_biotype=protein_coding
+ON237218.1	Genbank	CDS	8527	15024	.	+	0	ID=cds-WCO06474.1;Parent=gene-L;Dbxref=NCBI_GP:WCO06474.1;Name=WCO06474.1;gbkey=CDS;gene=L;product=RNA-dependent RNA polymerase;protein_id=WCO06474.1
+
